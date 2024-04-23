@@ -1,6 +1,6 @@
 // db queries go inside this file
 
-import TaskSchema from "./taskSchema.js";
+import TaskSchema from "./TaskSchema.js";
 
 // C
 

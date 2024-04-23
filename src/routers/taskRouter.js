@@ -5,7 +5,7 @@ import {
   insertTask,
   updateTask,
   getTasks,
-} from "../models/task/taskModel.js";
+} from "../models/task/TaskModel.js";
 
 const router = express.Router();
 
